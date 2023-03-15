@@ -1,164 +1,356 @@
 [
     {
-        "name": "Lumpy Paterson",
-        "comp": "open",
-        "cn": "VW",
-        "glider": "Quintus",
+        "name": "Tom Jamieson",
+        "comp": "Club",
+        "cn": "YM",
+        "glider": "ASW20b",
         "flarm": [
-            "DDEA40"
+            "DDE68D"
         ]
     },
     {
-        "name": "Matthew Atkinson",
-        "comp": "open",
-        "cn": "V8",
-        "glider": "Ventus 2cx 18m",
+        "name": "Jo Davis",
+        "comp": "Club",
+        "cn": "IIC",
+        "glider": "ASW20",
         "flarm": [
-            "DDEA07"
-        ]
-    },
-    {
-        "name": "Geoff Brown",
-        "comp": "open",
-        "cn": "KG",
-        "glider": "JS1 18m",
-        "flarm": [
-            "7C66AE"
-        ]
-    },
-    {
-        "name": "Ed Marel",
-        "comp": "open",
-        "cn": "31",
-        "glider": "ASH 31 Mi 18m",
-        "flarm": [
-            "DDE9E9"
-        ]
-    },
-    {
-        "name": "Arnold Niewand",
-        "comp": "open",
-        "cn": "WP",
-        "glider": "ASG 29 E 18m",
-        "flarm": [
-            "DF09C6"
-        ]
-    },
-    {
-        "name": "David Pietsch",
-        "comp": "open",
-        "cn": "ZZ",
-        "glider": "JS1 TJ 18m",
-        "flarm": [
-            "DF15FA"
-        ]
-    },
-    {
-        "name": "Matthew Scutter",
-        "comp": "open",
-        "cn": "LL",
-        "glider": "SZD-56-2 Diana 2 FES",
-        "flarm": [
-            "D012F6"
-        ]
-    },
-    {
-        "name": "Bruce Taylor",
-        "comp": "open",
-        "cn": "QR",
-        "glider": "ASG 29 E 18m",
-        "flarm": [
-            "D01D36"
-        ]
-    },
-    {
-        "name": "Pete Temple",
-        "comp": "open",
-        "cn": "PT",
-        "glider": "ASG 29 18m",
-        "flarm": [
-            "7C2FBF","FD439E"
-        ]
-    },
-    {
-        "name": "Craig Vinall",
-        "comp": "open",
-        "cn": "VNL",
-        "glider": "AS 33 Es 18m",
-        "flarm": [
-            "DF22BF"
-        ]
-    },
-    {
-        "name": "Adam Woolley",
-        "comp": "open",
-        "cn": "G1",
-        "glider": "Ventus 3T 15m",
-        "flarm": [
-            "7C718B","FD44FA"
-        ]
-    },
-    {
-        "name": "Rodney van den Brink",
-        "comp": "sports",
-        "cn": "IKS",
-        "glider": "G 102 Astir CS",
-        "flarm": [
-            "D00C8C"
+            "7C29A2"
         ]
     },
     {
         "name": "David Collins",
-        "comp": "sports",
+        "comp": "Club",
         "cn": "20F",
-        "glider": "ASW 20",
+        "glider": "ASW20F",
         "flarm": [
             "DF032B"
         ]
     },
     {
-        "name": "Jenny Ganderton",
-        "comp": "sports",
-        "cn": "BM",
-        "glider": "LS 4",
+        "name": "Peter Brunton",
+        "comp": "Club",
+        "cn": "20",
+        "glider": "ASW20",
         "flarm": [
-            "D01038"
+            "7C3605"
         ]
     },
     {
-        "name": "Sid Nankivell",
-        "comp": "sports",
-        "cn": "WUD",
-        "glider": "LS 3",
+        "name": "Ryan Driscoll",
+        "comp": "Club",
+        "cn": "MG",
+        "glider": "ASW20C",
         "flarm": [
-            "DD4F44"
+            "DDB545"
+        ]
+    },
+    {
+        "name": "Jack Hart",
+        "comp": "Club",
+        "cn": "JH",
+        "glider": "ASW20",
+        "flarm": [
+            "D00598"
+        ]
+    },
+    {
+        "name": "Mike Codling",
+        "comp": "15m",
+        "cn": "JT",
+        "glider": "ASW27",
+        "flarm": [
+            "7C7FE7"
+        ]
+    },
+    {
+        "name": "Tony Condon",
+        "comp": "Club",
+        "cn": "C2",
+        "glider": "CIRRUSSTD",
+        "flarm": [
+            "D022B9"
+        ]
+    },
+    {
+        "name": "Matt Gage",
+        "comp": "Standard",
+        "cn": "FV",
+        "glider": "DISCUSB",
+        "flarm": [
+            "D0092B"
+        ]
+    },
+    {
+        "name": "Ross Whittle",
+        "comp": "Standard",
+        "cn": "FY",
+        "glider": "DISCUSB",
+        "flarm": [
+            "D00D46"
+        ]
+    },
+    {
+        "name": "Ray Stewart",
+        "comp": "15m",
+        "cn": "S5",
+        "glider": "JS3",
+        "flarm": [
+            "7C71FA",
+            "D00BFE"
+        ]
+    },
+    {
+        "name": "Norm Bloch",
+        "comp": "15m",
+        "cn": "NB",
+        "glider": "JS3",
+        "flarm": [
+            "D001CE"
+        ]
+    },
+    {
+        "name": "Paul Dickson",
+        "comp": "Club",
+        "cn": "UKC",
+        "glider": "LS3",
+        "flarm": [
+            "DDB705"
+        ]
+    },
+    {
+        "name": "Richard Frawley",
+        "comp": "Club",
+        "cn": "CQO",
+        "glider": "LS4a",
+        "flarm": [
+            "D00952"
+        ]
+    },
+    {
+        "name": "Rolf Buelter",
+        "comp": "15m",
+        "cn": "YXM",
+        "glider": "LS6",
+        "flarm": [
+            "7C7CC8",
+            "DF0F74"
+        ]
+    },
+    {
+        "name": "Miles Gore-Brown",
+        "comp": "Standard",
+        "cn": "WB",
+        "glider": "LS8",
+        "flarm": [
+            "DDEB30",
+            "7C2179"
+        ]
+    },
+    {
+        "name": "Greg Beecroft",
+        "comp": "Standard",
+        "cn": "HCB",
+        "glider": "LS8",
+        "flarm": [
+            "7C23B9"
+        ]
+    },
+    {
+        "name": "Allan Barnes",
+        "comp": "Standard",
+        "cn": "S7",
+        "glider": "LS8",
+        "flarm": [
+            "7C4471"
+        ]
+    },
+    {
+        "name": "Mike Durrant",
+        "comp": "Standard",
+        "cn": "FQF",
+        "glider": "LS8",
+        "flarm": [
+            "7C1B95"
+        ]
+    },
+    {
+        "name": "Mak Ichikawa",
+        "comp": "15m",
+        "cn": "PB",
+        "glider": "LS8",
+        "flarm": [
+            "7C6C6D"
+        ]
+    },
+    {
+        "name": "Neil Bennett",
+        "comp": "Club",
+        "cn": "QF",
+        "glider": "MOSQUITO",
+        "flarm": [
+            "DD4F7D"
+        ]
+    },
+    {
+        "name": "David Pickles",
+        "comp": "Club",
+        "cn": "AY",
+        "glider": "PIK20",
+        "flarm": [
+            "DF22D5"
+        ]
+    },
+    {
+        "name": "Matthew Scutter",
+        "comp": "15m",
+        "cn": "LL",
+        "glider": "DIANA2",
+        "flarm": [
+            "D012F6"
+        ]
+    },
+    {
+        "name": "Tobi Geiger",
+        "comp": "15m",
+        "cn": "VG",
+        "glider": "VENTUS2",
+        "flarm": [
+            "A9CB1D"
+        ]
+    },
+    {
+        "name": "Jim Crowhurst",
+        "comp": "Club",
+        "cn": "41",
+        "glider": "ASW20",
+        "flarm": [
+            "DF03E5"
+        ]
+    },
+    {
+        "name": "Garry Stevenson",
+        "comp": "Club",
+        "cn": "UKK",
+        "glider": "DISCUSB",
+        "flarm": [
+            "7C7A34"
+        ]
+    },
+    {
+        "name": "Daniel Summers",
+        "comp": "Club",
+        "cn": "QP",
+        "glider": "LS3a",
+        "flarm": [
+            "7C0C6F"
+        ]
+    },
+    {
+        "name": "Scott Lennon",
+        "comp": "Standard",
+        "cn": "LSL",
+        "glider": "LS8",
+        "flarm": [
+            "7C3A43"
+        ]
+    },
+    {
+        "name": "David Jansen",
+        "comp": "Standard",
+        "cn": "VSL",
+        "glider": "LS8",
+        "flarm": [
+            "7C6CE3"
+        ]
+    },
+    {
+        "name": "Bruce Taylor",
+        "comp": "Standard",
+        "cn": "GG",
+        "glider": "LS8",
+        "flarm": [
+            "D022DE"
+        ]
+    },
+    {
+        "name": "Terry Cubley",
+        "comp": "Club",
+        "cn": "SG",
+        "glider": "MOSQUITO",
+        "flarm": [
+            "D00153"
+        ]
+    },
+    {
+        "name": "Tim Wilson",
+        "comp": "15m",
+        "cn": "FA",
+        "glider": "ASG29",
+        "flarm": [
+            "xxxxxx"
+        ]
+    },
+    {
+        "name": "Brad Edwards",
+        "comp": "15m",
+        "cn": "1B",
+        "glider": "JS3",
+        "flarm": [
+            "D00393"
         ]
     },
     {
         "name": "Bernie Sizer",
-        "comp": "sports",
+        "comp": "Club",
         "cn": "VH",
-        "glider": "PIK-20 B",
+        "glider": "PIK20B",
         "flarm": [
-            "DD506D"
+            "xxxxxx"
         ]
     },
     {
-        "name": "Robert Smits",
-        "comp": "sports",
-        "cn": "GA",
-        "glider": "Cirrus",
+        "name": "Adam Woolley",
+        "comp": "15m",
+        "cn": "G1",
+        "glider": "VENTUS3-15m",
         "flarm": [
-            "DD5041"
+            "7C718B"
         ]
     },
     {
-        "name": "The Sniffer",
-        "comp": "sports",
-        "cn": "ZAW",
-        "glider": "PW-5",
+        "name": "Steve Jinks",
+        "comp": "Club",
+        "cn": "FQN",
+        "glider": "MOSQUITO",
         "flarm": [
-            "DDB456"
+            "DD513F"
         ]
-    }
+    },
+    {
+        "name": "Mark Dalton",
+        "comp": "Club",
+        "cn": "MD",
+        "glider": "ASW20",
+        "flarm": [
+            "xxxxxx"
+        ]
+    },
+    {
+        "name": "James Nugent",
+        "comp": "Club",
+        "cn": "QX",
+        "glider": "LS3",
+        "flarm": [
+            "D00155"
+        ]
+    },
+    {
+        "name": "Michael Strathern",
+        "comp": "Club",
+        "cn": "FQM",
+        "glider": "DG100",
+        "flarm": [
+            "xxxxxx"
+        ]
+    },
 ]

@@ -1,0 +1,26 @@
+{
+    "comps": [
+        {
+            "id": "standard",
+            "name": "Ausglide 2023 - Standard",
+            "short": "Standard Class",
+            "task": "https://www.soaringspot.com/en_gb/aus-glide-2022-narromine-2022/results/standard",
+            "colour": "#0074D9"
+        },
+       {
+            "id": "15m",
+            "name": "Ausglide 2023 - 15m",
+            "short": "15m Class",
+            "task": "https://www.soaringspot.com/en_gb/aus-glide-2022-narromine-2022/results/15-meter",
+            "colour": "#BF211E"
+        },
+       {
+            "id": "Club",
+            "name": "Ausglide 2023 - Club",
+            "short": "Club Class",
+            "task": "https://www.soaringspot.com/en_gb/aus-glide-2022-narromine-2022/results/club",
+            "colour": "#770BF2"
+        }
+    ],
+    "gliders": "https://glidingcomp.au/austrack/gliders.json"
+}
