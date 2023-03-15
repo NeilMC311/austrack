@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Lumpy Paterson",
+        "comp": "open",
+        "cn": "VW",
+        "glider": "Quintus",
+        "flarm": [
+            "DDEA40"
+        ]
+    },
+    {
+        "name": "Matthew Atkinson",
+        "comp": "open",
+        "cn": "V8",
+        "glider": "Ventus 2cx 18m",
+        "flarm": [
+            "DDEA07"
+        ]
+    },
+    {
+        "name": "Geoff Brown",
+        "comp": "open",
+        "cn": "KG",
+        "glider": "JS1 18m",
+        "flarm": [
+            "7C66AE"
+        ]
+    },
+    {
+        "name": "Ed Marel",
+        "comp": "open",
+        "cn": "31",
+        "glider": "ASH 31 Mi 18m",
+        "flarm": [
+            "DDE9E9"
+        ]
+    },
+    {
+        "name": "Arnold Niewand",
+        "comp": "open",
+        "cn": "WP",
+        "glider": "ASG 29 E 18m",
+        "flarm": [
+            "DF09C6"
+        ]
+    },
+    {
+        "name": "David Pietsch",
+        "comp": "open",
+        "cn": "ZZ",
+        "glider": "JS1 TJ 18m",
+        "flarm": [
+            "DF15FA"
+        ]
+    },
+    {
+        "name": "Matthew Scutter",
+        "comp": "open",
+        "cn": "LL",
+        "glider": "SZD-56-2 Diana 2 FES",
+        "flarm": [
+            "D012F6"
+        ]
+    },
+    {
+        "name": "Bruce Taylor",
+        "comp": "open",
+        "cn": "QR",
+        "glider": "ASG 29 E 18m",
+        "flarm": [
+            "D01D36"
+        ]
+    },
+    {
+        "name": "Pete Temple",
+        "comp": "open",
+        "cn": "PT",
+        "glider": "ASG 29 18m",
+        "flarm": [
+            "7C2FBF","FD439E"
+        ]
+    },
+    {
+        "name": "Craig Vinall",
+        "comp": "open",
+        "cn": "VNL",
+        "glider": "AS 33 Es 18m",
+        "flarm": [
+            "DF22BF"
+        ]
+    },
+    {
+        "name": "Adam Woolley",
+        "comp": "open",
+        "cn": "G1",
+        "glider": "Ventus 3T 15m",
+        "flarm": [
+            "7C718B","FD44FA"
+        ]
+    },
+    {
+        "name": "Rodney van den Brink",
+        "comp": "sports",
+        "cn": "IKS",
+        "glider": "G 102 Astir CS",
+        "flarm": [
+            "D00C8C"
+        ]
+    },
+    {
+        "name": "David Collins",
+        "comp": "sports",
+        "cn": "20F",
+        "glider": "ASW 20",
+        "flarm": [
+            "DF032B"
+        ]
+    },
+    {
+        "name": "Jenny Ganderton",
+        "comp": "sports",
+        "cn": "BM",
+        "glider": "LS 4",
+        "flarm": [
+            "D01038"
+        ]
+    },
+    {
+        "name": "Sid Nankivell",
+        "comp": "sports",
+        "cn": "WUD",
+        "glider": "LS 3",
+        "flarm": [
+            "DD4F44"
+        ]
+    },
+    {
+        "name": "Bernie Sizer",
+        "comp": "sports",
+        "cn": "VH",
+        "glider": "PIK-20 B",
+        "flarm": [
+            "DD506D"
+        ]
+    },
+    {
+        "name": "Robert Smits",
+        "comp": "sports",
+        "cn": "GA",
+        "glider": "Cirrus",
+        "flarm": [
+            "DD5041"
+        ]
+    },
+    {
+        "name": "The Sniffer",
+        "comp": "sports",
+        "cn": "ZAW",
+        "glider": "PW-5",
+        "flarm": [
+            "DDB456"
+        ]
+    }
+]
