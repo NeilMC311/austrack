@@ -41,9 +41,18 @@
         "cn": "MG",
         "glider": "ASW20C",
         "flarm": [
-            "DDB545"
+            "DF231D"
+        ]
+    },{
+        "name": "Jack Tonkin",
+        "comp": "Standard",
+        "cn": "CC",
+        "glider": "LS8",
+        "flarm": [
+            "D001CC"
         ]
     },
+
     {
         "name": "Jack Hart",
         "comp": "Club",
@@ -287,7 +296,7 @@
         "cn": "FA",
         "glider": "ASG29",
         "flarm": [
-            "xxxxxx"
+            "DF0AB2"
         ]
     },
     {
@@ -314,7 +323,7 @@
         "cn": "G1",
         "glider": "VENTUS3-15m",
         "flarm": [
-            "7C718B"
+            "7C718B", "FD4E23"
         ]
     },
     {
@@ -362,4 +371,16 @@
             "7C1B9C"
         ]
     }
+	,
+    {
+        "name": "TBA3",
+        "comp": "TBA",
+        "cn": "TBA3",
+        "glider": "TBA3",
+        "flarm": [
+            "7C75C7"
+        ]
+    }
+	
+
 ]
